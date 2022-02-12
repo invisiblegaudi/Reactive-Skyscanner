@@ -57,7 +57,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
-    "ajv": "^5.2.2",
+    "ajv": "^6.12.3",
     "bootstrap": "^3.3.7",
     "bpk-mixins": "^11.0.0",
     "bpk-stylesheets": "^3.2.14",
