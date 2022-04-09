@@ -64,7 +64,7 @@
     "es6-promise": "^3.2.1",
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.15.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "react": "^15.2.1",
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.2.1",
